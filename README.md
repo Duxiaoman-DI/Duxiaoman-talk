@@ -44,7 +44,7 @@
 ### <span id='aizx'>AI在度小满征信解读中的应用</span> 
 **全文**  [AI在度小满征信解读中的应用](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/AI%E5%9C%A8%E5%BA%A6%E5%B0%8F%E6%BB%A1%E5%BE%81%E4%BF%A1%E8%A7%A3%E8%AF%BB%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
 **简介**  报告的主题是AI技术在征信解读中的应用，主要介绍我们针对金融征信数据以及面向信贷领域模型在技术上的优化实践。本文侧重于介绍度小满在基于征信报告开发端到端模型时的模型架构、经验、难点。    
-![pic2](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/pretrainmodel.PNG)   
+![pic2](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/pretrain2.PNG)   
 <br/>
 
 ## 信贷风控   
@@ -52,7 +52,7 @@
 **全文**  [度小满风控创新式探索](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E4%BB%A5%E8%B4%B7%E5%85%BB%E8%B4%B7%E4%B8%8D%E4%BC%9A%E8%A2%AB%E5%8F%91%E7%8E%B0%EF%BC%9F%E5%A4%A7%E9%94%99%E7%89%B9%E9%94%99%EF%BC%8C%E6%97%B6%E5%BA%8F%E7%BD%91%E7%BB%9C%E5%8A%A9%E5%8A%9B%E9%A3%8E%E6%8E%A7%E5%8D%87%E7%BA%A7.md)   
 **简介**  随着大数据与人工智能的引入，金融风控领域出现了很多探索与创新，针对海量非结构化数据的研究和挖掘，更是层出不穷。   
 在信贷领域内，征信报告是一种非常常见的非结构化数据，过去主要通过专家经验从中加工出风险相关特征。然而，在我们的案例中可以看到，传统特征加工方式无法捕捉到用户以贷养贷的风险，而时序网络可以非常细致地观察到用户的时间变化趋势，能够更好地发现这种潜在的风险行为。这就说明，对包含大量文本、非结构化的数据，传统挖掘方式面临巨大挑战；我们将详细介绍度小满对征信这类非结构化数据的创新式探索。   
-![pic3](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E5%BE%81%E4%BF%A1%E6%8A%A5%E5%91%8A%E8%A7%A3%E8%AF%BB%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF.PNG)   
+![pic3](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E5%BE%81%E4%BF%A1%E6%8A%A5%E5%91%8A%E8%A7%A3%E8%AF%BB%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF2.PNG)   
 <br/>   
 
 ### <span id='riskm1'>数据科学与金融风控模型</span> 
@@ -64,7 +64,7 @@
 ### <span id='graphrisk'>图机器学习在度小满风控中的应用</span> 
 **全文**  [图机器学习在度小满风控中的应用](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E5%9B%BE%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%9C%A8%E5%BA%A6%E5%B0%8F%E6%BB%A1%E9%A3%8E%E6%8E%A7%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8.md)    
 **简介**  图机器学习是当前热门方向，各大金融科技公司都开始着手对图技术进行研究与应用。度小满使用图数据库去存储数据，并利用图分析算法来甄别团伙欺诈行为，极大程度提高了数据存储和挖掘能力，同时为金融风控业务提供实时有效的风险信息。本报告主要通过应用方法和案例解读，为大家在图机器学习落地产品化方面提供参考，并展示了度小满超大规模图平台Eros的框架和在度小满的应用。    
-![graph_risk](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E5%9B%BE%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E6%BC%94%E8%BF%9B.PNG)    
+![graph_risk](https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E5%9B%BE%E5%9C%A8%E9%87%91%E8%9E%8D%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E6%BC%94%E8%BF%9B2.PNG)    
 <br/>
 
 
