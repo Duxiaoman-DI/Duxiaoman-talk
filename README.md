@@ -54,7 +54,7 @@
 **全文**   [大模型让AI诈骗成精10分钟骗走430w](https://www.qbitai.com/2023/05/55771.html)      
 **简介**   随着AGIC技术大爆发，普通人接触到各种先进生成工具变得不费吹灰之力，制作出越发难以识别的高质量deepfake视频越来越容易，我们想要一眼识破这些造假内容就更加困难。     
 实际上，应对deepfake其实早已有比较成熟的技术方法和方案。
-![picllm](https://www.qbitai.com/wp-content/uploads/replace/0f4f1ce89073c9aef24c23b4d05cdb05.gif)
+![picllm](https://www.qbitai.com/wp-content/uploads/replace/7bbbf78222a47f0e18c0cc693608487a.jpeg)
 <br/>
 
 
