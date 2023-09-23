@@ -84,7 +84,7 @@
 ### <span id='face'>金融场景下人脸识别的安全应用实践 (护脸计划2022年度成果发布会)</span>
 **全文**   [金融场景下人脸识别的安全应用实践](https://www.geekpark.net/news/311643)      
 **简介**   1月16日，由中国信息通信研究院云计算与大数据研究所（以下简称“中国信通院云大所”）、可信人脸应用守护计划、中国通信标准化协会TC602联合主办的“护脸计划2022年度成果发布会”在云端召开。度小满的“谛观生物认证系统”通过了本次最新评测。    
-<img src="https://imgslim.geekpark.net/uploads/image/file/4c/89/4c89bef27e513552027ca6f0d1a70c15.png" width=250 height=400 />
+<img src="https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E7%94%9F%E7%89%A9%E8%AE%A4%E8%AF%81%E8%AF%81%E4%B9%A6.PNG" width=250 height=400 />
 
 <br/>
 
