@@ -10,7 +10,7 @@
 **平台实践**   
 * [图平台在金融风控中的应用实践 (2023全国知识图谱与语义计算大会)](#ccksgraph)
 * [度小满金融超大规模图平台实践](#graphplat)
-* 度小满自动机器学习平台实践
+* [度小满自动机器学习平台实践](#automl)
 
 **AI类**    
 * [AI防欺诈不应只是单点突破，要有“全链条”屏障](#deepfake)
@@ -49,6 +49,11 @@
 <img src="https://camo.githubusercontent.com/86e0843e91a6f32083fd694619296459e30ce5f3564dacdc5a9b847b97395970/68747470733a2f2f696d672d626c6f672e6373646e696d672e636e2f31623631666537376130386134306135613336626262613861313630663761342e706e67" width=550 height=300 border=10 />
 <br/>
 
+### <span id='automl'>度小满自动机器学习平台实践</span>   
+**全文**  [度小满自动机器学习平台实践](https://www.51cto.com/article/746831.html)    
+**简介**  随着 AI 技术的发展，不同业务涉及的 AI 技术越来越多样，同时 AI 模型参数量逐年爆发式增长，如何克服 AI 算法落地面临的开发成本高、对人工依赖强、算法不稳定及落地周期长等问题，成为困扰人工智能从业者的难题。而“自动机器学习平台”是解决 AI 落地压力的关键方法。本文将分享度小满在搭建自动机器学习平台 ATLAS 的实践经验。    
+<img src="https://github.com/Duxiaoman-DI/Duxiaoman-talk/blob/main/%E8%87%AA%E5%8A%A8%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%B9%B3%E5%8F%B0%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%BC%98%E5%8C%96.png" width=550 height=300/>
+<br/>
 
 ## AI类   
 ### <span id='deepfake'>AI防欺诈不应只是单点突破</span> ，要有“全链条”屏障 
